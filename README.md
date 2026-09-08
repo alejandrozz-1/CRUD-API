@@ -8,12 +8,10 @@ API utilizada: **https://fakestoreapi.com/**
 
 ## Herramientas utilizadas
 
-```http
-Postman
-FakeStoreAPI
-JSON
-HTTP Methods (GET, POST, PUT, DELETE)
-```
+- Postman
+- FakeStoreAPI
+- JSON
+- HTTP Methods (GET, POST, PUT, DELETE)
 
 ---
 
@@ -25,7 +23,6 @@ Se realizaron 10 peticiones para crear nuevos productos en la API.
 
 ### Acciones realizadas
 
-```http
 1. Crear producto "Portátil Lenovo".
 2. Crear producto de electrónica.
 3. Crear producto de informática.
@@ -36,7 +33,6 @@ Se realizaron 10 peticiones para crear nuevos productos en la API.
 8. Crear producto tecnológico.
 9. Crear producto adicional.
 10. Crear producto final.
-```
 
 **Endpoint utilizado**
 
@@ -54,7 +50,6 @@ Se realizaron 10 consultas para obtener información de productos, categorías, 
 
 ### Acciones realizadas
 
-```http
 1. Obtener listado completo de productos.
 2. Obtener producto con ID 1.
 3. Obtener producto con ID 5.
@@ -65,7 +60,6 @@ Se realizaron 10 consultas para obtener información de productos, categorías, 
 8. Obtener listado de usuarios.
 9. Obtener usuario con ID 1.
 10. Obtener listado de carritos.
-```
 
 **Endpoints utilizados**
 
